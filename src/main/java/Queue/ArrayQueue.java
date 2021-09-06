@@ -1,5 +1,7 @@
 package Queue;
 
+import java.util.*;
+
 /**
  * @author cqp
  * @version 1.0.0
@@ -66,6 +68,8 @@ public class ArrayQueue {
         boolean d = arrayQueue.enqueue("d");
         String dequeue = arrayQueue.dequeue();
         arrayQueue.enqueue("e");
+
+
 
     }
 }
