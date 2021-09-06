@@ -54,7 +54,7 @@ public class queens_8{
                     return false;
                 }
             }
-            if(rightup <= 8){
+            if(rightup < 8){
                 if(result[i] == rightup){
                     return false;
                 }
