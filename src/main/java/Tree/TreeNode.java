@@ -1,4 +1,4 @@
-package LeetCode.Tree;
+package Tree;
 
 /**
  * @author cqp
